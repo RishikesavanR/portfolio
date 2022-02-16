@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Playfair+Display+SC:ital@0;1&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+.Skillsets{
+    height: 100vh;
+    background-color: rgb(26, 6, 0);
+}
+.skillsetsIcons{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.skillsetsText{
+    font-size: 300%;
+    font-family: 'Permanent Marker', cursive;
+    margin-left:5%;
+    color:rgb(255, 123, 0); 
+
+}
+.htmlIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.CssIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.materialIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.javascriptIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.reactIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.nodejsIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.gitIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+}
+
+.githubIcons{
+    height: 100%;
+    width: 100%;
+    margin-top: 4%;
+    margin-left: 20%;
+    color:rgb(237, 255, 71);
+
+}
+.html{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}
+.github{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}
+.git {
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}
+.nodejs{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}
+.react{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}
+.javascript{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}
+.material{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    margin-right: -12%;
+    font-family: 'Bitter', serif;
+}
+.css{
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Bitter', serif;
+}

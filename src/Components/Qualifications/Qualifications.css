@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Playfair+Display+SC:ital@0;1&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+.qualifications{
+    height: 100vh;
+    background-color: rgb(44, 10, 0);
+    color:rgb(255, 123, 0);
+}
+.qualificationsText{
+    font-weight: 300;
+    font-size: 300%;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-family: 'Permanent Marker', cursive;
+}
+.degree{
+    margin-top:4%;
+    font-size: 500%;
+    letter-spacing: 20px;
+    text-align:center;
+    color:rgb(237, 255, 71);
+    font-family: 'Lobster', cursive;
+}
+.expansation{
+    text-align: center;
+    font-size: 150%;
+    color:aliceblue;
+    font-family: 'Bitter', serif;
+}
+.year{
+    text-align: end;
+    margin-right: 10%;
+    font-size: 150%;
+    color:rgb(255, 123, 0);
+    font-family: 'Playfair Display SC', serif;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+.header{
+    align-items:center;
+    display:flex;
+    width: 100%;
+    background-color: rgb(44, 10, 0);
+    top: 10 ;
+    position: fixed ;
+    z-index: 1000 ;
+}
+.header__left>h3{
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 180%;
+    color:rgb(237, 255, 71);
+    padding: 5% 20%;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.header__left>h3>span{
+    color:rgb(255, 123, 0);
+}
+.header__left{
+    flex:0.3;
+}
+.header__right{
+    display:flex;
+    flex:0.7;
+    justify-content: space-evenly;
+    align-items: center;
+    word-spacing: 5%;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 2px;
+    color:chocolate;
+    
+}
+.header__right>a>h4{
+    cursor:pointer;
+    transition: transform 200ms ease-in-out;
+}
+.header__right>a>h4:hover{
+    transform:scale(1.7);
+    color:rgb(217, 255, 0);
+    padding:5px 20px;
+    
+}
+.modebutton{
+    color:rgb(170, 170, 0)
+}

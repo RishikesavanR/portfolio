@@ -1,0 +1,38 @@
+.contact{
+    height: 40vh;
+    background-color: rgb(26, 6, 0);
+
+}
+.contactText{
+    font-size: 300%;
+    margin-left: 5%;
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(255, 123, 0);
+
+}
+.contacticons{
+    color:rgb(237, 255, 71);
+  
+    
+}
+.email{
+    text-align: center;
+    font-size: 200%;
+    font-family: 'Akaya Telivigala', cursive;
+    color:rgb(237, 255, 71);
+}
+.giticon{
+    margin-left: 33%;
+    margin-top: 5%;
+}
+.Linkicon{
+    margin-left: 33%;
+    margin-top: 5%;
+}
+.copyrighttext{
+    color:rgb(237, 255, 71);
+    text-align: center;
+    
+    font-size:150% ;
+    font-family: 'Lobster', cursive;
+}

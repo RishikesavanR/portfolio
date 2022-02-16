@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Andada+Pro&family=Bitter:ital@1&family=Charm&family=Lobster&family=Lora&family=Montserrat:ital@1&family=Nunito+Sans&family=Old+Standard+TT:wght@700&family=Pacifico&family=Permanent+Marker&family=Playfair+Display+SC:ital@0;1&family=Quintessential&family=Source+Code+Pro&family=Zen+Kurenaido&display=swap');
+.projects{
+    height: 230vh;
+    margin-left: 5%;
+}
+.span{
+    color:rgb(237, 255, 71);
+    font-size: 300%;
+}
+.projectsText{
+    font-size: 300%;
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(255, 123, 0);
+}
+.linkbutton{
+    color: rgb(237, 255, 71)!important;;
+    background-color: rgb(255, 123, 0)!important;
+    margin-left: 5%;
+}
+.googlekeepheading{
+    margin-left: 10%;
+    font-size: 200%;
+    margin-top: 3%;
+    font-family: 'Lobster', cursive;
+}
+.weatherappheading{
+    margin-left: 10%;
+    font-size: 200%;
+    margin-top: 3%;
+    font-family: 'Lobster', cursive;
+}
+.userinfoheading{
+    margin-left: 10%;
+    font-size: 200%;
+    margin-top: 3%;
+    font-family: 'Lobster', cursive;
+    
+}
+.projectdescription{
+    margin-left: 20%;
+    font-size: 150%;
+    font-family: 'Charm', cursive;
+    font-weight: 600;
+}
+.spaned{
+    color:rgb(255, 123, 0);
+    font-size: 50px;
+}
