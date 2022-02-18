@@ -12,7 +12,7 @@
     border-spacing: 200px;
 }
 .image{
-    align-self: center;
+    align-self:center;
     height: 300px;
     width: 300px;
     border-radius:100%;
@@ -22,21 +22,21 @@
     z-index: 1;
 }
 .hi{
-    font-size: 250%;
+    font-size: 200%;
     font-family: 'Charm', cursive;
     font-weight: 700;
     letter-spacing: 3px!important;
 
 }
 .role{
-    font-size: 300%;
+    font-size: 250%;
     font-family: 'Pacifico', cursive;
     background:linear-gradient(30deg,rgb(25, 0, 255),rgb(250, 100, 0),rgb(83, 9, 255),rgb(0, 255, 34),rgb(255, 0, 0),rgb(174, 0, 197),rgb(255, 174, 0));
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .name{
-    font-size:500%;
+    font-size:300%;
     font-family: 'Old Standard TT', serif;
     background:linear-gradient(30deg,rgb(229, 255, 0),rgb(236, 92, 25),rgb(9, 9, 255),rgb(255, 0, 13),brown,green,rgb(0, 255, 0));
     background-clip: text;

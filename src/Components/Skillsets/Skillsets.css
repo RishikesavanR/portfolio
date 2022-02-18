@@ -9,7 +9,7 @@
 }
 .skillsetsIcons{
     margin-top: 2%;
-    display: flex;
+    display:flex;
     justify-content: space-evenly;
 }
 .skillsetsText{
