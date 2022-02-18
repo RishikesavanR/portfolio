@@ -6,7 +6,7 @@ const Qualification = () => {
   const [isNotSmallerScreen] = useMediaQuery("(min-width:600px)")
   return (
     <Element className='qualifications' name='Qualifications'>
-      <h1 className='qualificationsText' fontSize={isNotSmallerScreen ? 60:30}>QUALIFICATIONS</h1>
+      <h1 className='qualificationsText'>QUALIFICATIONS</h1>
       <h1 className='degree' >BCA</h1>
       <h1 className='expansation'>(Bachelor of Computer Application)</h1>
       <h1 className='year'> Degree completion in 2022</h1>
@@ -15,3 +15,4 @@ const Qualification = () => {
 }
 
 export default Qualification
+//fontSize={isNotSmallerScreen ? 60:30}
