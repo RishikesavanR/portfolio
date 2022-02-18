@@ -26,7 +26,7 @@ const Topcontainer = () => {
         <Box ml={isNotSmallerScreen ? 10 : 0}  mt={isNotSmallerScreen? 30:5} alignSelf="center">
         
           <Text className='hi'>Hi,I am</Text>
-          <Text className='name' fontSize={isNotSmallerScreen ? 50:30}>RISHIKESAVAN R</Text>
+          <Text className='name' fontSize={isNotSmallerScreen ? 60:30}>RISHIKESAVAN R</Text>
           <Text className='role' fontSize={isNotSmallerScreen ? 50:30}>Frontend Web Developer</Text>
         </Box>
         
